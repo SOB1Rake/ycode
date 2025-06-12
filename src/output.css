@@ -627,20 +627,30 @@ video {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .w-\[\] {
   width: ;
 }
 
 .w-\[374px\] {
   width: 374px;
+=======
+.w-auto {
+  width: auto;
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
 
 .max-w-\[1120px\] {
   max-width: 1120px;
 }
 
+<<<<<<< HEAD
 .flex-col {
   flex-direction: column;
+=======
+.max-w-\[636px\] {
+  max-width: 636px;
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
 
 .items-center {
@@ -708,6 +718,7 @@ video {
   background-color: rgb(5 6 6 / var(--tw-bg-opacity, 1));
 }
 
+<<<<<<< HEAD
 .bg-\[\#F0F2F4\] {
   --tw-bg-opacity: 1;
   background-color: rgb(240 242 244 / var(--tw-bg-opacity, 1));
@@ -716,6 +727,14 @@ video {
 .bg-\[\#202425\] {
   --tw-bg-opacity: 1;
   background-color: rgb(32 36 37 / var(--tw-bg-opacity, 1));
+=======
+.p-\[254px\] {
+  padding: 254px;
+}
+
+.p-\[\] {
+  padding: ;
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
 
 .px-\[18px\] {
@@ -733,6 +752,7 @@ video {
   padding-bottom: 24px;
 }
 
+<<<<<<< HEAD
 .py-\[\] {
   padding-top: ;
   padding-bottom: ;
@@ -774,6 +794,18 @@ video {
 
 .text-center {
   text-align: center;
+=======
+.pt-\[254px\] {
+  padding-top: 254px;
+}
+
+.pb-\[\] {
+  padding-bottom: ;
+}
+
+.pb-\[163px\] {
+  padding-bottom: 163px;
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
 
 .text-\[14px\] {
@@ -788,10 +820,13 @@ video {
   font-size: 19px;
 }
 
+<<<<<<< HEAD
 .text-\[31px\] {
   font-size: 31px;
 }
 
+=======
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 .text-\[32px\] {
   font-size: 32px;
 }
@@ -800,12 +835,25 @@ video {
   font-size: 43px;
 }
 
+<<<<<<< HEAD
 .text-\[54px\] {
   font-size: 54px;
 }
 
 .text-\[18px\] {
   font-size: 18px;
+=======
+.text-\[60px\] {
+  font-size: 60px;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.font-normal {
+  font-weight: 400;
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
 
 .text-\[\#05060680\] {
@@ -822,6 +870,7 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
+<<<<<<< HEAD
 .text-\[\] {
   color: ;
 }
@@ -866,4 +915,9 @@ video {
   .md\:text-left {
     text-align: left;
   }
+=======
+.text-\[\#050606\] {
+  --tw-text-opacity: 1;
+  color: rgb(5 6 6 / var(--tw-text-opacity, 1));
+>>>>>>> d205af4e30fc505d6ae5035359054bb9118db2a7
 }
